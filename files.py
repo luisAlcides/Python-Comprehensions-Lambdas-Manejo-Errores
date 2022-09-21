@@ -14,6 +14,7 @@ def write():
             f.write("\n")
     
     print(names)
+    print("jajajjaj")
 
 
 def run():
